@@ -1,0 +1,20 @@
+{
+  "name": "bower-test",
+  "description": "test bower publish",
+  "main": "./src/App.js",
+  "authors": [
+    "tangyu"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
